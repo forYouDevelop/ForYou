@@ -1,6 +1,7 @@
 # foYou
 
-## Terms and Conditions of Use## End-User License Agreement (EULA) of foYou
+## Terms and Conditions of Use
+## End-User License Agreement (EULA) of foYou
 
     This End-User License Agreement ("EULA") is a legal agreement between you and Kiryl Tupikou.
 
