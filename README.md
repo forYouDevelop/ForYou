@@ -3,15 +3,15 @@
 ## Terms and Conditions of Use
 ## End-User License Agreement (EULA) of foYou
 
-    This End-User License Agreement ("EULA") is a legal agreement between you and Kiryl Tupikou.
+This End-User License Agreement ("EULA") is a legal agreement between you and Kiryl Tupikou.
 
-    This EULA agreement governs your acquisition and use of our foYou software ("Software") directly from Kiryl Tupikou or indirectly through a Kirill Tupikov. authorized reseller or distributor (a "Reseller").
+This EULA agreement governs your acquisition and use of our foYou software ("Software") directly from Kiryl Tupikou or indirectly through a Kirill Tupikov. authorized reseller or distributor (a "Reseller").
 
-    Please read this EULA agreement carefully before completing the installation process and using the foYou software. It provides a license to use the foYou software and contains warranty information and liability disclaimers.
+Please read this EULA agreement carefully before completing the installation process and using the foYou software. It provides a license to use the foYou software and contains warranty information and liability disclaimers.
 
-    If you register for a free trial of the foYou software, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the foYou software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
+If you register for a free trial of the foYou software, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the foYou software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
 
-    If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.
+If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.
 
     This EULA agreement shall apply only to the Software supplied by Kiryl Tupikou herewith regardless of whether other software is referred to or described herein. The terms also apply to any Kiryl Tupikou updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply. This EULA was created by EULA Template for foYou.
 
