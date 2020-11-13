@@ -121,4 +121,4 @@ This Privacy Policy is effective as of October 1, 2019 and will remain in effect
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, Terms and Conditions of Use, please contact us foyou.health@gmail.com
+If you have any questions about this Privacy Policy, Terms and Conditions of Use, please contact us foryou@appear.digital
