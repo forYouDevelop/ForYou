@@ -1,4 +1,4 @@
-# ForYou
+# forYou
 
 ## Terms and Conditions of Use
 ## End-User License Agreement (EULA) of forYou
