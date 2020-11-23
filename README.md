@@ -3,11 +3,11 @@
 ## Terms and Conditions of Use
 ## End-User License Agreement (EULA) of forYou
 
-Effective as of October 22, 2020
+Effective as of November 22, 2020
 
 ## ABOUT US
 
-Appear Digital Ltd mobile applications (“Apps”) are owned, operated and managed by APPEAR DIGITAL LTD (we/us/our), a private company limited by shares, incorporated and registered in the United Kingdom with company number 12993935 whose registered office is at 39 Fairfax Road, London, NW6 4EL.
+Appear Digital Ltd mobile applications (“Apps”) are owned, operated and managed by APPEAR DIGITAL LTD (we / us / our), a private company limited by shares, incorporated and registered in the United Kingdom with company number 12993935 whose registered office is at 39 Fairfax Road, London, NW6 4EL.
 We can be contacted by writing to APPEAR DIGITAL LTD, 39 Fairfax Road, London, or by e-mail at team@appear.digital
 
 ### 1. Introduction.
@@ -22,15 +22,16 @@ If you register for a free trial of the "forYou" software, this EULA agreement w
 
 If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.
 
-This EULA agreement shall apply only to the Software supplied by Appear Digital LTD herewith regardless of whether other software is referred to or described herein. The terms also apply to any Appear Digital LTD updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply. This EULA was created by EULA Template specifically for "forYou" application.
+This EULA agreement shall apply only to the Software supplied by Appear Digital Ltd herewith regardless of whether other software is referred to or described herein. The terms also apply to any Appear Digital Ltd updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply. This EULA was created by EULA Template specifically for "forYou" application.
 
-Appear Digital LTD ("Appear Digital LTD", "We", "Us," "Our", “Company”) develops mobile applications ("Our Products"). Our Apple Applications may be downloaded from the App Store, which is operated and owned by Apple Inc. and other companies within its group ("Apple"). Our Android Applications may be downloaded from Google Play, which is owned and operated by Google Inc. and other companies within its group ("Google"). The Verv website (the “Website”), all other products and services, including mobile apps (the “Application”), and all content offered as part thereof, are collectively referred to herein as the “Services” and are offered to you by Appear Digital LTD.  Our goal is to help people lead a healthy way of life through skincare aesthetics practices. Our Products offer content, features, functionality and other information and services including, without limitation, viral, embeddable or application/device-based features and related technology, also when accessed via the Internet, mobile or other device (collectively, "Our Services"). We develop Our Products for informational purposes only. You must ALWAYS consult your physician or doctor before starting any program. Subscribers, account holders, customers, users, and others who download, access, use, purchase and/or subscribe to the Services (“you”) agree to these terms and conditions (the “Terms”). By agreeing to these Terms you confirm that you are solely responsible for your state of health. These Terms of Use govern your use of the Services and are a condition to your use of the Services.
+Appear Digital Ltd ("Appear Digital LTD", "We", "Us," "Our", “Company”) develops mobile applications ("Our Products"). Our Apple Applications may be downloaded from the App Store, which is operated and owned by Apple Inc. and other companies within its group ("Apple"). Our Android Applications may be downloaded from Google Play, which is owned and operated by Google Inc. and other companies within its group ("Google"). The Verv website (the “Website”), all other products and services, including mobile apps (the “Application”), and all content offered as part thereof, are collectively referred to herein as the “Services” and are offered to you by Appear Digital Ltd.  Our goal is to help people lead a healthy way of life through skincare aesthetics practices. Our Products offer content, features, functionality and other information and services including, without limitation, viral, embeddable or application/device-based features and related technology, also when accessed via the Internet, mobile or other device (collectively, "Our Services"). We develop Our Products for informational purposes only. You must ALWAYS consult your physician or doctor before starting any program. Subscribers, account holders, customers, users, and others who download, access, use, purchase and/or subscribe to the Services (“you”) agree to these terms and conditions (the “Terms”). By agreeing to these Terms you confirm that you are solely responsible for your state of health. These Terms of Use govern your use of the Services and are a condition to your use of the Services.
 
 ### 2. Acceptance of Terms and Conditions.
 
-By using Our Products and Services you accept these Terms and Conditions. If you do not accept these Terms and Conditions, you may not use Our Products and Services. Appear Digital LTD reserves the right to amend these Terms and Conditions at any time without prior notice. The up-to-date version of these Terms and Conditions will be available on the official website of Appear Digital LTD and any changes will come into effect immediately upon posting. By continuing to use our products you agree to amended terms and conditions.
+By using Our Products and Services you accept these Terms and Conditions. If you do not accept these Terms and Conditions, you may not use Our Products and Services. Appear Digital Ltd reserves the right to amend these Terms and Conditions at any time without prior notice. The up-to-date version of these Terms and Conditions will be available on the official website of Appear Digital Ltd and any changes will come into effect immediately upon posting. By continuing to use our products you agree to amended terms and conditions.
 
-### 3. License Grant. Appear Digital Ltd hereby grants you a personal, non-transferable, non-exclusive licence to use the forYou software on your devices in accordance with the terms of this EULA agreement.
+### 3. License Grant. 
+## Appear Digital Ltd hereby grants you a personal, non-transferable, non-exclusive licence to use the forYou software on your devices in accordance with the terms of this EULA agreement.
 
 You are permitted to load the forYou software on your personal mobile device under your control. You are responsible for ensuring your device meets the minimum requirements of the forYou software.
 
@@ -40,7 +41,7 @@ Edit, alter, modify, adapt, translate or otherwise change the whole or any part 
 
 ### 4. Intellectual Property.
 
-The texts, graphics, designs, logos, button icons, images, data compilations and information ("Content") contained in Our Products and Services are Intellectual Property of Appear Digital Ltd (or belongs to it) and are protected by copyright laws. All logos and trademarks displayed in Our Products and Services are registered trademarks or trademarks of Appear Digital LTD. No trademarks may be used without prior written consent of Appear Digital Ltd except to identify the products or services associated therewith. Our Products and all related software, and all patent rights (including patent applications and disclosures), copyrights, trade secrets, know-how, and any other intellectual property rights therein or relating thereto (including derivative works), are and shall remain the exclusive property of Appear Digital Ltd or its licensors.
+The texts, graphics, designs, logos, button icons, images, data compilations and information ("Content") contained in Our Products and Services are Intellectual Property of Appear Digital Ltd (or belongs to it) and are protected by copyright laws. All logos and trademarks displayed in Our Products and Services are registered trademarks or trademarks of Appear Digital Ltd. No trademarks may be used without prior written consent of Appear Digital Ltd except to identify the products or services associated therewith. Our Products and all related software, and all patent rights (including patent applications and disclosures), copyrights, trade secrets, know-how, and any other intellectual property rights therein or relating thereto (including derivative works), are and shall remain the exclusive property of Appear Digital Ltd or its licensors.
 
 ### 5. Legality of Use.
 
@@ -107,7 +108,7 @@ This EULA agreement, and any dispute arising out of or in connection with this E
 
 ## Privacy Policy
 
-Appear Digital Ltd ("us", "we", or "our") operates the forYou mobile application (the "Service"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+Appear Digital Ltd (we / us / our) operates the forYou mobile application (the "Service"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
 We will not use or share your information with anyone except as described in this Privacy Policy. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
@@ -115,9 +116,13 @@ We will not use or share your information with anyone except as described in thi
 
 We collect the following Personal Data and information from you:
 1.1 - Usage activity about how you interact with us such as purchase history, what content you viewed, and which areas of our application you visited.
+
 1.2 - Physical Data. This may include your gender identity, age, weight, sleeping schedule, nutrition information.
+
 1.3 - Device and Usage Information that may include information specific to your mobile device (e.g., make, model, operating system, advertising identifier and similar information); information about your use of features, functions, or notifications on the device.
+
 1.4 - Information about your mobile device such as your mobile device id (similar to a website IP address), device type, and mobile service carrier.
+
 1.5. - Correspondence Data. While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address ("Personal Information"). We may collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
 
 ### 2. Log Data
@@ -146,10 +151,12 @@ We understand the importance of taking extra precautions to protect the privacy 
 
 ### 8. Changes To This Privacy Policy
 
-This Privacy Policy is effective as of October 22, 2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+This Privacy Policy is effective as of November 22, 2020 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
 
 ## 9. Contact Us
 
-If you have any questions about this Privacy Policy, Terms and Conditions of Use, please contact us 
+If you have any questions about this Privacy Policy, Terms and Conditions of Use, please contact us:
+
 9.1 via email at: foryou@appear.digital
+
 9.2 via post to: Appear Digital Ltd. 39 Fairfax road, London, United Kingdom, NW6 4EL
