@@ -153,10 +153,10 @@ We understand the importance of taking extra precautions to protect the privacy 
 
 This Privacy Policy is effective as of November 22, 2020 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
 
-## 9. Contact Us
+## Contact Us
 
 If you have any questions about this Privacy Policy, Terms and Conditions of Use, please contact us:
 
-9.1 via email at: foryou@appear.digital
+- via email at: foryou@appear.digital
 
-9.2 via post to: Appear Digital Ltd. 39 Fairfax road, London, United Kingdom, NW6 4EL
+- via post to: Appear Digital Ltd. 39 Fairfax road, London, United Kingdom, NW6 4EL
