@@ -123,7 +123,12 @@ We collect the following Personal Data and information from you:
 
 1.4 - Information about your mobile device such as your mobile device id (similar to a website IP address), device type, and mobile service carrier.
 
-1.5. - Correspondence Data. While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address ("Personal Information"). We may collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
+1.5 - Correspondence Data. While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address ("Personal Information"). We may collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
+
+1.6 - Facial Data Processing:
+- We do not collect, store or distribute any facial data from your phone.
+- AR (Augmented Reality) facial mask is rendered on your phone by using your mobile  OS vender’s AR API
+- If you store your avatar that contains your face picture («selfie”), you give us the right to store this picture on our server and you have the right to request its deletion by contacting us. The picture will be delisted within 30 days upon receiving the request.
 
 ### 2. Log Data
 
