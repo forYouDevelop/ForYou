@@ -118,9 +118,13 @@ We will not use or share your information with anyone except as described in thi
 We collect the following Personal Data and information from you:
 
 1.1 - Usage activity about how you interact with us such as purchase history, what content you viewed, and which areas of our application you visited.
+
 1.2 - Physical Data. This may include your gender identity, age, weight, sleeping schedule, nutrition information.
+
 1.3 - Device and Usage Information that may include information specific to your mobile device (e.g., make, model, operating system, advertising identifier and similar information); information about your use of features, functions, or notifications on the device.
+
 1.4 - Information about your mobile device such as your mobile device id (similar to a website IP address), device type, and mobile service carrier.
+
 1.5 - Correspondence Data. While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address (“Personal Information”). We may collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services. You have the right to request its deletion by contacting us. The personal information will be delisted within 30 days upon receiving the request.
 
 1.6 - Facial Data Processing, for not authorized users:
@@ -135,7 +139,6 @@ We collect the following Personal Data and information from you:
 - You have the right to request its deletion by contacting us. The pictures and all facial data will be delisted within 30 days upon receiving the request.
 - You give us the right to use some part of your fully anonymized facial data to train AI (Artificial Intelligence) and ML models (Machine Learning Models)  for providing future services. AI and ML models do not store your not-modified facial data. You fully understand that your request for deleting personal information and/or facial data and/or pictures won’t result in AI and ML models alternation, but  your fully anonymized facial data will be excluded from future use of our data science department.
 - AR (Augmented Reality) facial mask is rendered on your phone by using your mobile OS vender’s AR API. The vendor is responsible to receive your consent on such processing.
-
 
 ### 2. Log Data
 
